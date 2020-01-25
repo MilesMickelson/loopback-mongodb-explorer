@@ -3,11 +3,11 @@ module.exports = {
         "host": "",
         "port": 0,
         "url": process.env.MONGODB_URI,
-        "database": "lb-workshop-db",
+        "database": "test",
         "password": "",
         "name": "MongoDB",
         "user": "",
         "useNewUrlParser": true,
-        "connector": "mongodb"
+        "connector": "mongodb",
     }
 }
