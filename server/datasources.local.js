@@ -7,7 +7,7 @@ module.exports = {
         "host": "",
         "port": 0,
         "url": "",
-        "database": "lb-workshop-db",
+        "database": "test",
         "password": "",
         "name": "MongoDB",
         "user": "",
